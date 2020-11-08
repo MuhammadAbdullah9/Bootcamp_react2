@@ -1,8 +1,30 @@
-.App {
+.app{
   text-align: center;
+  margin-top: 5.5em;
 }
 
-.App-logo {
+.lightsOn{
+  text-align: center;
+  height: 70vh;
+  width: 50%;
+  color: black;
+  background-color: white;
+  margin: auto;
+  /* margin-top: 6em; */
+  border: 2px solid gray;
+}
+.lightsOff{
+  text-align: center;
+  height: 70vh;
+  width: 50%;
+  background-color: black;
+  color: white;
+  margin: auto;
+  /* margin-top: 6em; */
+  border: 2px solid gray;
+}
+
+/* .App-logo {
   height: 40vmin;
   pointer-events: none;
 }
@@ -35,4 +57,4 @@
   to {
     transform: rotate(360deg);
   }
-}
+} */
